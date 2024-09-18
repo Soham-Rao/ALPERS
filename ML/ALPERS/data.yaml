@@ -1,0 +1,18 @@
+# names:
+# - '0'
+# nc: 1
+# roboflow:
+#   license: CC BY 4.0
+#   project: alpers
+#   url: https://universe.roboflow.com/tanmay-anand/alpers/dataset/1
+#   version: 1
+#   workspace: tanmay-anand
+# test: ../test/images
+# train: ALPERS-1/train/images
+# val: ALPERS-1/valid/images
+
+test:  ALPERS/test
+train: ALPERS/train
+val: ALPERS/val
+nc: 1
+names:  ['plate']
