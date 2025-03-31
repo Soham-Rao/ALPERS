@@ -1,0 +1,6 @@
+2025-03-29 12:57:10, Plate: Gonit U.od, Confidence: 0.68
+2025-03-29 12:57:31, Plate: No text detected, Confidence: 0.68
+2025-03-29 12:57:47, Plate: Gonit O.od I, Confidence: 0.63
+2025-03-29 13:00:16, Plate: Gonit 0.o, Confidence: 0.81
+2025-03-29 13:00:21, Plate: No text detected, Confidence: 0.83
+2025-03-29 13:00:38, Plate: Gonit, Confidence: 0.75
